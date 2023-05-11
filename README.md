@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=MirandaPHY&show_icons=true&theme=dracula&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MirandaPHY&show_icons=true&theme=dracula&count_private=true)
 
 
 
