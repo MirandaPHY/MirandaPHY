@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=MirandaPHY&show_icons=true&theme=dracula&count_private=true)
 
 
 
@@ -36,4 +37,4 @@ Here are some ideas to get you started:
   
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MirandaPHY/MirandaPHY/blob/output/github-contribution-grid-snake.svg)
