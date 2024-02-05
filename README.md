@@ -1,4 +1,4 @@
-### ## Oiii eu sou o Paulo Henderson, Estudante  de programação e Front-End! 👋
+### ## Oiii eu sou o Paulo Henderson, Estudante  de programação e Ciencida de Dados,Front-End! 👋
 
 <!--
 **MirandaPHY/MirandaPHY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
