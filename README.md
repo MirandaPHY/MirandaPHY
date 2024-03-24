@@ -1,4 +1,4 @@
-### ## Oiii eu sou o Paulo Henderson, Estudante  de programação e Ciencida de Dados,Front-End! 👋
+### ## Oiii eu sou o Paulo Henderson, Estudante  de programação de Front-End e Back End! 👋
 
 <p align="center">
   <img src="https://github.com/karinnecristina/karinnecristina/blob/master/Banner.gif" alt="animated" />
