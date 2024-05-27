@@ -4,8 +4,6 @@
   <img src="https://github.com/karinnecristina/karinnecristina/blob/master/Banner.gif" alt="animated" />
 </p>
 
-### Ola, Sou o Paulo Henderson Miranda da Siva 💻😎
-
 
 <img src="81-1.jpg" alt="">
 
